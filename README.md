@@ -1,4 +1,5 @@
 ## [개발 organization으로 바로가기 ▶](https://github.com/Drinkit-BingBong)
+### [내 branch로 개발 내역 확인하기 ▶](https://github.com/Drinkit-BingBong/Backend/tree/jimin)
 ---------------------------------
 
 ### <span style="background-color:#C0FFFF">음주 습관, 혼자여도, 함께여도 즐겁고 건강하게!</span>
